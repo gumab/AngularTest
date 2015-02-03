@@ -1,0 +1,3 @@
+$scope.friend = {
+	name:"Guma"
+};
